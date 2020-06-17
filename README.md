@@ -1,4 +1,4 @@
-# Docker Asp
+# NASA ASP Dockerfile
 
 NASA Ames Stereo Pipeline (ASP) Docker container.
 
